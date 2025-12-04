@@ -1,6 +1,5 @@
 """
 Flipkart Product Scraper
-Extracts comprehensive product information from Flipkart search results
 """
 
 import requests
