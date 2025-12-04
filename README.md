@@ -1,2 +1,2 @@
-# Capstone-Project-
-Smart Product Scraper 
+# Capstone-Project
+# Smart Product Scraper 
