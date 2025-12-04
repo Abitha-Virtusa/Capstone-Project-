@@ -49,9 +49,14 @@ Both platforms have bot detection. If blocked:
 # Project Structure
 '''
 Capstone project/
+
 ├── amazon.py              # Amazon scraper (16KB)
+
 ├── flipkart.py            # Flipkart scraper (24KB)
+
 ├── requirements.txt       # Dependencies
+
 ├── README.md              # This file
+
 └── app1.py                # UI streamlit main file
 '''
